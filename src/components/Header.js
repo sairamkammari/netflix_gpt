@@ -1,5 +1,5 @@
 import React from 'react'
-import { logo } from '../constants'
+import { logo } from '../utils/constants'
 const Header = () => {
   return (
     <div>
